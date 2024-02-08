@@ -8,12 +8,21 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Configuring the CICD Ecosystem on-premises and  Cloud ( AWS, Azure, GCP ).
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I am a highly skilled Deployment Automation Consultant currently working at Ericsson in Sweden. My expertise spans AWS, Azure, GCP, CI/CD (Jenkins, TeamCity), Docker Orchestration (Docker, Kubernetes), Infrastructure as Code (CloudFormation, Ansible, Terraform), and Scripting Languages (Bash, Python, Groovy), Databases (MySQL, PostgreSQL, MSSQL).Languages ( Java, NodeJs, PHP ). My technical expertise includes extensive use of various cloud platforms, containerization technologies, automation tools, and collaboration platforms.
+
+- 🌱 TECHNICAL SKILLS ...
+    - Cloud Technologies: AWS (EKS, ECS, ECS Fargate), AliCloud (ACK, ECS, Apsara DevOps Pipeline), Azure, GCP
+    - Automation Tools: Jenkins, Ansible, Terraform, Packer
+    - Containerization and Orchestration: Docker, Kubernetes
+    - Web Servers: Nginx
+    - Databases: MongoDB, PostgreSQL
+    - Monitoring Tools: ELK Stack, Zabbix, SonarQube
+    - Version Control: Git, GitLab
+    - Collaboration Tools: JIRA, Confluence, Slack, Microsoft Teams
+
+- 📫 CALL ME :
+    - WhatsApp: +8801715519132
+    - Skype: uzzal2k5
+    - eMail: uzzal2k5@gmail.com
+    - LinkedIn: https://www.linkedin.com/in/uzzal2k5
 
