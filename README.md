@@ -6,8 +6,7 @@
 
 ---
 **🔭Who Am I?**
-
-    - I am a highly skilled Deployment Automation Consultant currently working at Ericsson in Sweden. My expertise spans AWS, Azure, GCP, CI/CD (Jenkins, TeamCity), Docker Orchestration (Docker, Kubernetes), Infrastructure as Code (CloudFormation, Ansible, Terraform), and Scripting Languages (Bash, Python, Groovy), Databases (MySQL, PostgreSQL, MSSQL).Languages ( Java, NodeJs, PHP ). My technical expertise includes extensive use of various cloud platforms, containerization technologies, automation tools, and collaboration platforms.
+- I am a highly skilled Deployment Automation Consultant currently working at Ericsson in Sweden. My expertise spans AWS, Azure, GCP, CI/CD (Jenkins, TeamCity), Docker Orchestration (Docker, Kubernetes), Infrastructure as Code (CloudFormation, Ansible, Terraform), and Scripting Languages (Bash, Python, Groovy), Databases (MySQL, PostgreSQL, MSSQL).Languages ( Java, NodeJs, PHP ). My technical expertise includes extensive use of various cloud platforms, containerization technologies, automation tools, and collaboration platforms.
 
 **🌱 TECHNICAL SKILLS ...**
 
@@ -21,9 +20,8 @@
 - **Collaboration Tools:** JIRA, Confluence, Slack, Microsoft Teams
 
 **📫 CALL ME :**
-
-    - **WhatsApp:** +8801715519132
-    - **Skype:** uzzal2k5
-    - **eMail:** uzzal2k5@gmail.com
-    - **LinkedIn:** https://www.linkedin.com/in/uzzal2k5
+- **WhatsApp:** +8801715519132
+- **Skype:** uzzal2k5
+- **eMail:** uzzal2k5@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/uzzal2k5
 
