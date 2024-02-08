@@ -5,11 +5,13 @@
 
 
 ---
+**🔭Who Am I?**
 
-🔭 I am a highly skilled Deployment Automation Consultant currently working at Ericsson in Sweden. My expertise spans AWS, Azure, GCP, CI/CD (Jenkins, TeamCity), Docker Orchestration (Docker, Kubernetes), Infrastructure as Code (CloudFormation, Ansible, Terraform), and Scripting Languages (Bash, Python, Groovy), Databases (MySQL, PostgreSQL, MSSQL).Languages ( Java, NodeJs, PHP ). My technical expertise includes extensive use of various cloud platforms, containerization technologies, automation tools, and collaboration platforms.
+    - I am a highly skilled Deployment Automation Consultant currently working at Ericsson in Sweden. My expertise spans AWS, Azure, GCP, CI/CD (Jenkins, TeamCity), Docker Orchestration (Docker, Kubernetes), Infrastructure as Code (CloudFormation, Ansible, Terraform), and Scripting Languages (Bash, Python, Groovy), Databases (MySQL, PostgreSQL, MSSQL).Languages ( Java, NodeJs, PHP ). My technical expertise includes extensive use of various cloud platforms, containerization technologies, automation tools, and collaboration platforms.
 
-🌱 TECHNICAL SKILLS ...
-    - **Cloud Technologies:** AWS (EKS, ECS, ECS Fargate), AliCloud (ACK, ECS, Apsara DevOps Pipeline), Azure, GCP
+**🌱 TECHNICAL SKILLS ...**
+
+    - **Cloud Technologies:**  AWS (EKS, ECS, ECS Fargate), AliCloud (ACK, ECS, Apsara DevOps Pipeline), Azure, GCP
     - **Automation Tools:** Jenkins, Ansible, Terraform, Packer
     - **Containerization and Orchestration:** Docker, Kubernetes
     - **Web Servers:** Nginx, Apache
@@ -18,9 +20,10 @@
     - **Version Control:** Git, GitLab
     - **Collaboration Tools:** JIRA, Confluence, Slack, Microsoft Teams
 
-📫 CALL ME :
-    - WhatsApp: +8801715519132
-    - Skype: uzzal2k5
-    - eMail: uzzal2k5@gmail.com
-    - LinkedIn: https://www.linkedin.com/in/uzzal2k5
+**📫 CALL ME :**
+
+    - **WhatsApp:** +8801715519132
+    - **Skype:** uzzal2k5
+    - **eMail:** uzzal2k5@gmail.com
+    - **LinkedIn:** https://www.linkedin.com/in/uzzal2k5
 
