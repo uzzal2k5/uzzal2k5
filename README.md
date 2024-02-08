@@ -10,14 +10,15 @@
     - I am a highly skilled Deployment Automation Consultant currently working at Ericsson in Sweden. My expertise spans AWS, Azure, GCP, CI/CD (Jenkins, TeamCity), Docker Orchestration (Docker, Kubernetes), Infrastructure as Code (CloudFormation, Ansible, Terraform), and Scripting Languages (Bash, Python, Groovy), Databases (MySQL, PostgreSQL, MSSQL).Languages ( Java, NodeJs, PHP ). My technical expertise includes extensive use of various cloud platforms, containerization technologies, automation tools, and collaboration platforms.
 
 **🌱 TECHNICAL SKILLS ...**
-    - **Cloud Technologies:**  AWS (EKS, ECS, ECS Fargate), AliCloud (ACK, ECS, Apsara DevOps Pipeline), Azure, GCP
-    - **Automation Tools:** Jenkins, Ansible, Terraform, Packer
-    - **Containerization and Orchestration:** Docker, Kubernetes
-    - **Web Servers:** Nginx, Apache
-    - **Databases:** MongoDB, PostgreSQL, MariaDB, MySQL, MSSQL
-    - **Monitoring Tools:** ELK Stack, Zabbix, SonarQube
-    - **Version Control:** Git, GitLab
-    - **Collaboration Tools:** JIRA, Confluence, Slack, Microsoft Teams
+
+- **Cloud Technologies:**  AWS (EKS, ECS, ECS Fargate), AliCloud (ACK, ECS, Apsara DevOps Pipeline), Azure, GCP
+- **Automation Tools:** Jenkins, Ansible, Terraform, Packer
+- **Containerization and Orchestration:** Docker, Kubernetes
+- **Web Servers:** Nginx, Apache
+- **Databases:** MongoDB, PostgreSQL, MariaDB, MySQL, MSSQL
+- **Monitoring Tools:** ELK Stack, Zabbix, SonarQube
+- **Version Control:** Git, GitLab
+- **Collaboration Tools:** JIRA, Confluence, Slack, Microsoft Teams
 
 **📫 CALL ME :**
 
