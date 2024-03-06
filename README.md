@@ -10,13 +10,13 @@
 
 **🌱 TECHNICAL SKILLS ...**
 
-- **Cloud Technologies:**  AWS (EKS, ECS, ECS Fargate), Azure (AKS, Azure DevOps, Azure VMs, Azure Monitor, Azure Container Apps), GCP
-- **Automation Tools:** Jenkins, Ansible, Terraform, Packer
+- **Cloud Technologies:**  AWS, Azure,  GCP, OVH, OpenStack
+- **Automation Tools:** Jenkins, Ansible, Terraform, Packer, Vagrant
 - **Containerization and Orchestration:** Docker, Kubernetes
 - **Web Servers:** Nginx, Apache
 - **Databases:** MongoDB, PostgreSQL, MariaDB, MySQL, MSSQL
 - **Monitoring Tools:** ELK Stack, Zabbix, SonarQube
-- **Version Control:** Git, GitLab
+- **Version Control:** Git, GitLab, Github, Gerrit, BitBucket
 - **Collaboration Tools:** JIRA, Confluence, Slack, Microsoft Teams
 
  **📫 CERTIFICATION:**
