@@ -6,11 +6,11 @@
 
 ---
 **🔭WHO AM I?**
-- I am a highly skilled Deployment Automation Consultant currently working at Ericsson in Sweden. My expertise spans AWS, Azure, GCP, CI/CD (Jenkins, TeamCity), Docker Orchestration (Docker, Kubernetes), Infrastructure as Code (CloudFormation, Ansible, Terraform), and Scripting Languages (Bash, Python, Groovy), Databases (MySQL, PostgreSQL, MSSQL).Languages ( Java, NodeJs, PHP ). My technical expertise includes extensive use of various cloud platforms, containerization technologies, automation tools, and collaboration platforms.
+- I am a highly skilled Deployment Automation (CI/CD) Consultant. My expertise spans AWS, Azure, GCP, OpenStack CI/CD (Jenkins, TeamCity), Docker Orchestration (Docker, Kubernetes), Infrastructure as Code (CloudFormation, Ansible, Terraform), and Scripting Languages (Bash, Python, Groovy), Databases (MySQL, PostgreSQL, MSSQL).Languages ( Java, NodeJs, PHP ). My technical expertise includes extensive use of various cloud platforms, containerization technologies, automation tools, and collaboration platforms.
 
 **🌱 TECHNICAL SKILLS ...**
 
-- **Cloud Technologies:**  AWS (EKS, ECS, ECS Fargate), AliCloud (ACK, ECS, Apsara DevOps Pipeline), Azure, GCP
+- **Cloud Technologies:**  AWS (EKS, ECS, ECS Fargate), Azure (AKS, Azure DevOps, Azure VMs, Azure Monitor, Azure Container Apps), GCP
 - **Automation Tools:** Jenkins, Ansible, Terraform, Packer
 - **Containerization and Orchestration:** Docker, Kubernetes
 - **Web Servers:** Nginx, Apache
@@ -19,10 +19,21 @@
 - **Version Control:** Git, GitLab
 - **Collaboration Tools:** JIRA, Confluence, Slack, Microsoft Teams
 
-**📫 CALL ME :**
+ **📫 CERTIFICATION:**
+ - **Red Hat License: 160-186-995 [ VERIFY ]**
+**Certificate Name:**
+- Red Hat Certificate of Expertise in Server Hardening, February 2017
+- Red Hat Certified System Administrator in Red Hat OpenStack, October 2016
+- Red Hat Certified Virtualization Administrator, October 2016
+- Red Hat Certified Engineer (RHCE), September 2016
+- Red Hat Certified System Administrator (RHCSA), September 2016
+- Certified ScrumMaster®  Scrum Alliance
+
+**📫 CALL ME:**
 - **WhatsApp:** +8801715519132
 - **Skype:** uzzal2k5
-- **eMail:** uzzal2k5@gmail.com
+- **Email:** uzzal2k5@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/uzzal2k5
 - **Facebook:** https://www.facebook.com/uzzal2k5/
+
 
