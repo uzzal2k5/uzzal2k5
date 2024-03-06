@@ -20,14 +20,16 @@
 - **Collaboration Tools:** JIRA, Confluence, Slack, Microsoft Teams
 
  **📫 CERTIFICATION:**
+ 
  - **Red Hat License: 160-186-995 [ VERIFY ]**
-**Certificate Name:**
-- Red Hat Certificate of Expertise in Server Hardening, February 2017
-- Red Hat Certified System Administrator in Red Hat OpenStack, October 2016
-- Red Hat Certified Virtualization Administrator, October 2016
-- Red Hat Certified Engineer (RHCE), September 2016
-- Red Hat Certified System Administrator (RHCSA), September 2016
-- Certified ScrumMaster®  Scrum Alliance
+   
+ - **Certificate Name:**
+   - Red Hat Certificate of Expertise in Server Hardening, February 2017
+   - Red Hat Certified System Administrator in Red Hat OpenStack, October 2016
+   - Red Hat Certified Virtualization Administrator, October 2016
+   - Red Hat Certified Engineer (RHCE), September 2016
+   - Red Hat Certified System Administrator (RHCSA), September 2016
+   - Certified ScrumMaster®  Scrum Alliance
 
 **📫 CALL ME:**
 - **WhatsApp:** +8801715519132
