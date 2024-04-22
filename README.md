@@ -24,6 +24,8 @@
  - **Red Hat License: 160-186-995 [ VERIFY ]**
    
  - **Certificate Name:**
+   - Microsoft Azure Administrator Associate
+   - Microsoft Azure Fundamentals
    - Red Hat Certificate of Expertise in Server Hardening, February 2017
    - Red Hat Certified System Administrator in Red Hat OpenStack, October 2016
    - Red Hat Certified Virtualization Administrator, October 2016
