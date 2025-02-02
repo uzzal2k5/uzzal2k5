@@ -1,12 +1,52 @@
 
 
-<h3 align="left">Experienced on: </h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a><a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+<h3 align="left">Specialized in: </h3>
+<p align="left"> 
+ <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+ <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
+ <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
+ <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
+ <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a>
+ <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+ <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+ <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+ <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a>
+ <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> </a> 
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraformio" width="40" height="40"/> </a> 
+</p>
 
 
 ---
 **🔭WHO AM I?**
-- I am a highly skilled Deployment Automation (CI/CD) Consultant. My expertise spans AWS, Azure, GCP, OpenStack CI/CD (Jenkins, TeamCity), Docker Orchestration (Docker, Kubernetes), Infrastructure as Code (CloudFormation, Ansible, Terraform), and Scripting Languages (Bash, Python, Groovy), Databases (MySQL, PostgreSQL, MSSQL).Languages ( Java, NodeJs, PHP ). My technical expertise includes extensive use of various cloud platforms, containerization technologies, automation tools, and collaboration platforms.
+
+I am a Deployment Automation Consultant with a focus on CI/CD tools (Jenkins, TeamCity ..), microservice orchestration (Docker, Kubernetes), and cloud platforms (AWS, Azure, GCP). I have deep expertise in Infrastructure as Code (IaC) using CloudFormation, Ansible, and Terraform, along with proficiency in scripting languages such as Bash, Python, and Groovy. I am also well-versed in GitOps tools like ArgoCD.
+
+**Key Areas of Expertise:**
+
+- **Cloud Platforms**:
+
+    Extensive experience with AWS (EKS, ECS, Fargate, EC2, VPC, S3, EBS, Route53, Lambda, SES, RDS, AMI, CloudWatch), Azure (AKS, Azure DevOps, VMs, Monitor, Container Apps), and GCP.
+- **Containerization & Orchestration**:
+
+   Proficient in Docker and Kubernetes for microservices orchestration.
+- **CI/CD & Automation Tools**:
+
+   Jenkins, Nexus, Packer, Terraform, Ansible, SonarQube, and Nginx.
+- **Databases & Scripting**:
+
+   MongoDB, PostgreSQL, MySQL, MSSQL, Oracle, and scripting with Python & Bash.
+- **Operating Systems**:
+
+   Experience with Linux (RedHat, CentOS, Ubuntu) and Unix/MacOS, including establishing private cloud environments with OpenStack, oVirt, and ProxMox.
+- **Collaboration & Version Control**:
+
+   Extensive use of GitHub, GitLab, Artifactory, JIRA, Youtrack, Confluence, Redmine, NextCloud, OpenCloud, Slack, and Microsoft Teams.
+
+
+I leverage these technologies to drive efficient, automated deployments, streamline infrastructure management, and enhance collaboration across teams.
+
 
 **🌱 TECHNICAL SKILLS ...**
 
@@ -39,5 +79,11 @@
 - **Email:** uzzal2k5@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/uzzal2k5
 - **Facebook:** https://www.facebook.com/uzzal2k5/
+
+
+ **📫 COMPANY I WORK FOR:**
+ <p align="left">
+ <a href="https://ericsson.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ericsson/ericsson-ar21.svg" alt="ericsson" width="100" height="40"/> </a> 
+ </p>
 
 
