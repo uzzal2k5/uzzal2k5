@@ -61,8 +61,20 @@
 
 
  **📫 COMPANY I WORK FOR:**
+ - **SWIFT** - [ SRE / DevOps Engineer ]
+ - **Ericsson** - [ Deployment Automation Consultant ]
+ - **BJIT LTD** - [ Lead DevOps Architect ]
+ - **IdeaScale** - [ DevOps Engineer ]
+ - **DataShall Analytics Ltd** - [ DevOps Architect ]
+ - **IPVision Canada Inc** - [ System Analyst - DevOps & Cloud Engineer ]
+ - **SELISE | rockin’ Software** - [ System Administrator & Cloud Engineer ]
+ - **General Pharmaceuticals Ltd** - [ System Administrator ]
+ - **NordicSoft Ltd ( Dc Tieto Oy, Finland )** - [ System Administrator ]
+ - **British American Tobacco Bangladesh (BATB)** - [  Network Engineer ]
+   
  <p align="left">
- <a href="https://ericsson.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ericsson/ericsson-ar21.svg" alt="ericsson" width="100" height="40"/> </a> 
+
+<!-- <a href="https://ericsson.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ericsson/ericsson-ar21.svg" alt="ericsson" width="100" height="40"/> </a> -->
  </p>
 
 
