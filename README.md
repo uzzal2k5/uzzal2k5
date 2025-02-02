@@ -21,31 +21,10 @@
 ---
 **🔭WHO AM I?**
 
-I am a Deployment Automation Consultant with a focus on CI/CD tools (Jenkins, TeamCity ..), microservice orchestration (Docker, Kubernetes), and cloud platforms (AWS, Azure, GCP). I have deep expertise in Infrastructure as Code (IaC) using CloudFormation, Ansible, and Terraform, along with proficiency in scripting languages such as Bash, Python, and Groovy. I am also well-versed in GitOps tools like ArgoCD.
-
-**Key Areas of Expertise:**
-
-- **Cloud Platforms**:
-
-    Extensive experience with AWS (EKS, ECS, Fargate, EC2, VPC, S3, EBS, Route53, Lambda, SES, RDS, AMI, CloudWatch), Azure (AKS, Azure DevOps, VMs, Monitor, Container Apps), and GCP.
-- **Containerization & Orchestration**:
-
-   Proficient in Docker and Kubernetes for microservices orchestration.
-- **CI/CD & Automation Tools**:
-
-   Jenkins, Nexus, Packer, Terraform, Ansible, SonarQube, and Nginx.
-- **Databases & Scripting**:
-
-   MongoDB, PostgreSQL, MySQL, MSSQL, Oracle, and scripting with Python & Bash.
-- **Operating Systems**:
-
-   Experience with Linux (RedHat, CentOS, Ubuntu) and Unix/MacOS, including establishing private cloud environments with OpenStack, oVirt, and ProxMox.
-- **Collaboration & Version Control**:
-
-   Extensive use of GitHub, GitLab, Artifactory, JIRA, Youtrack, Confluence, Redmine, NextCloud, OpenCloud, Slack, and Microsoft Teams.
+<p>I am a Deployment Automation Consultant with a focus on CI/CD tools (Jenkins, TeamCity ..), microservice orchestration (Docker, Kubernetes), and cloud platforms (AWS, Azure, GCP). I have deep expertise in Infrastructure as Code (IaC) using CloudFormation, Ansible, and Terraform, along with proficiency in scripting languages such as Bash, Python, and Groovy. I am also well-versed in GitOps tools like ArgoCD.</p>
 
 
-I leverage these technologies to drive efficient, automated deployments, streamline infrastructure management, and enhance collaboration across teams.
+<p>I leverage these technologies to drive efficient, automated deployments, streamline infrastructure management, and enhance collaboration across teams.</p>
 
 
 **🌱 TECHNICAL SKILLS ...**
