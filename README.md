@@ -21,7 +21,7 @@
 ---
 **🔭WHO AM I?**
 
-<p>I am a **Deployment Automation Consultant** / **DevOps Architect**  with a focus on CI/CD tools (**Jenkins, TeamCity ..**), microservice orchestration (**Docker, Kubernetes**), and cloud platforms (**AWS**, Azure, GCP**). I have deep expertise in Infrastructure as Code (IaC) using CloudFormation, **Ansible**, and **Terraform**, along with proficiency in scripting languages such as **Bash**, **Python**, and **Groovy**. I am also well-versed in GitOps tools like **ArgoCD**.</p>
+I am a **DevOps Architect and Deployment Automation Consultant** with extensive experience in **CI/CD pipelines** (Jenkins, TeamCity), **microservice orchestration** (Docker, Kubernetes), and **cloud platforms** (AWS, Azure, GCP). I specialize in **Infrastructure as Code (IaC)** using **Terraform** and **Ansible**, complemented by strong proficiency in **Bash**, **Python**, and **Groovy** scripting. Additionally, I have deep expertise in **GitOps methodologies** and tools like **ArgoCD**, enabling seamless deployment automation and improved operational efficiency.
 
 
 <p>I leverage these technologies to drive efficient, automated deployments, streamline infrastructure management, and enhance collaboration across teams.</p>
