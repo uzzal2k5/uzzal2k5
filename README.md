@@ -60,7 +60,7 @@
 - **Facebook:** https://www.facebook.com/uzzal2k5/
 
 
- **📫 COMPANY I WORK FOR:**
+ **📫 COMPANY I WORKED FOR:**
  - **SWIFT** - [ SRE / DevOps Engineer ]
  - **Ericsson** - [ Deployment Automation Consultant ]
  - **BJIT LTD** - [ Lead DevOps Architect ]
