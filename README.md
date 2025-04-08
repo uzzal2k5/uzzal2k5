@@ -41,18 +41,20 @@ I am a **DevOps Architect and Deployment Automation Consultant** with extensive 
 - **Version Control:** Git, GitLab, Github, Gerrit, BitBucket
 - **Collaboration Tools:** JIRA, Confluence, YouTrack, Slack, Microsoft Teams
 
- **📫 CERTIFICATION:**
- 
- - **Red Hat License: 160-186-995 [ VERIFY ]**
-   
- - **Certificate Name:**
+ **📘 CERTIFICATION:**
+
+ - **Microsoft:**
    - Microsoft Azure Administrator Associate
    - Microsoft Azure Fundamentals
+     
+ - **Red Hat:** License: 160-186-995 [ VERIFY ]
    - Red Hat Certificate of Expertise in Server Hardening, February 2017
    - Red Hat Certified System Administrator in Red Hat OpenStack, October 2016
    - Red Hat Certified Virtualization Administrator, October 2016
    - Red Hat Certified Engineer (RHCE), September 2016
    - Red Hat Certified System Administrator (RHCSA), September 2016
+   
+ - **Scrum Alliance:**
    - Certified ScrumMaster®  Scrum Alliance
 
 **📫 CALL ME:**
@@ -63,7 +65,7 @@ I am a **DevOps Architect and Deployment Automation Consultant** with extensive 
 - **Facebook:** https://www.facebook.com/uzzal2k5/
 
 
- **📫 COMPANY I WORKED FOR:**
+ **🏢 COMPANY I WORKED FOR:**
  - **SWIFT** - [ SRE / DevOps Engineer ]
  - **Ericsson** - [ Deployment Automation Consultant ]
  - **Axilweb** - [ DevOps Engineer ]
@@ -75,7 +77,12 @@ I am a **DevOps Architect and Deployment Automation Consultant** with extensive 
  - **General Pharmaceuticals Ltd** - [ System Administrator ]
  - **NordicSoft Ltd ( Dc Tieto Oy, Finland )** - [ System Administrator ]
  - **British American Tobacco Bangladesh (BATB)** - [  Network Engineer ]
-   
+ 
+ **🎓 EDUCATION ...**  
+     **BSc (Engg) in CSE** / June 2005 - June 2011  
+     Shahjalal University of Science & Technology ( SUST ),  
+     Sylhet-3114, Bangladesh  
+ 
  <p align="left">
 
 <!-- <a href="https://ericsson.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ericsson/ericsson-ar21.svg" alt="ericsson" width="100" height="40"/> </a> -->
