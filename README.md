@@ -29,14 +29,17 @@ I am a **DevOps Architect and Deployment Automation Consultant** with extensive 
 
 **🌱 TECHNICAL SKILLS ...**
 
-- **Cloud Technologies:**  AWS, Azure,  GCP, OVH, OpenStack
-- **Automation Tools:** Jenkins, Ansible, Terraform, Packer, Vagrant
+- **Cloud Technologies:**  AWS, Azure,  GCP, OVH, OpenStack, oVirt, Proxmox
+- **Automation(CI/CD) Tools:** Jenkins, Ansible, Terraform, Packer, Vagrant
 - **Containerization and Orchestration:** Docker, Kubernetes
-- **Web Servers:** Nginx, Apache
+- **Scripting Language:** Python, Groovy, Bash, HCL
+- **Web Servers:** Nginx, Apache httpd
 - **Databases:** MongoDB, PostgreSQL, MariaDB, MySQL, MSSQL
-- **Monitoring Tools:** ELK Stack, Zabbix, SonarQube
+- **Artifactory:** JFrog, Nexus
+- **Streaming Tools:** Apache Kafka, Redpanda, Amazon Kinesis, Azure Event Hubs
+- **Monitoring Tools:** Prometheus, ELK Stack, Zabbix, New Relic, Grafana
 - **Version Control:** Git, GitLab, Github, Gerrit, BitBucket
-- **Collaboration Tools:** JIRA, Confluence, Slack, Microsoft Teams
+- **Collaboration Tools:** JIRA, Confluence, YouTrack, Slack, Microsoft Teams
 
  **📫 CERTIFICATION:**
  
