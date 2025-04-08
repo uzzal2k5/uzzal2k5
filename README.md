@@ -63,6 +63,7 @@ I am a **DevOps Architect and Deployment Automation Consultant** with extensive 
  **📫 COMPANY I WORKED FOR:**
  - **SWIFT** - [ SRE / DevOps Engineer ]
  - **Ericsson** - [ Deployment Automation Consultant ]
+ - **Axilweb** - [ DevOps Engineer ]
  - **BJIT LTD** - [ Lead DevOps Architect ]
  - **IdeaScale** - [ DevOps Engineer ]
  - **DataShall Analytics Ltd** - [ DevOps Architect ]
