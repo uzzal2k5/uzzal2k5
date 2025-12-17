@@ -25,7 +25,7 @@ I am a **Software Engineer / DevOps Architect and Deployment Automation Consulta
 
 
 I leverage these technologies to drive efficient, automated deployments, streamline infrastructure management, and enhance collaboration across teams. 
-📄 **[Download Resume ...](https://drive.google.com/file/d/1edVD7iWaDI3JmaFJmn7Xuf7dBjHIk_aZ/view?usp=drive_link)**
+📄 **[Download Resume ...](https://drive.google.com/file/d/108AgF_TUZx6YpPQh0VV9d-KUVXgSM68D/view?usp=sharing)**
 
 
 
